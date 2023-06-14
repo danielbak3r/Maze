@@ -1,0 +1,176 @@
+# depslib dependency file v1.0
+1623178089 source:c:\users\t33l6\desktop\projektlabirynt\maze\main.cpp
+	<iostream>
+	<time.h>
+	<stdlib.h>
+	<string>
+	"source.h"
+
+1623178222 source:c:\users\t33l6\desktop\projektlabirynt\maze\source.cpp
+	<iostream>
+	<time.h>
+	<stdlib.h>
+	<string>
+	"source.h"
+
+1623178406 c:\users\t33l6\desktop\projektlabirynt\maze\source.h
+	<iostream>
+	<time.h>
+	<stdlib.h>
+	<string>
+	"source.h"
+
+1623748647 source:c:\users\t33l6\onedrive\maze\source.cpp
+	<iostream>
+	<time.h>
+	<cstdlib>
+	<string>
+	"source.h"
+	<conio.h>
+	<iomanip>
+	<windows.h>
+	<fstream>
+
+1623744852 c:\users\t33l6\onedrive\maze\source.h
+	<iostream>
+	<time.h>
+	<cstdlib>
+	<string>
+	"source.h"
+	<conio.h>
+	<iomanip>
+	<windows.h>
+
+1623748647 source:c:\users\k\onedrive\maze\source.cpp
+	<iostream>
+	<time.h>
+	<cstdlib>
+	<string>
+	"source.h"
+	<conio.h>
+	<iomanip>
+	<windows.h>
+	<fstream>
+
+1623744852 c:\users\k\onedrive\maze\source.h
+	<iostream>
+	<time.h>
+	<cstdlib>
+	<string>
+	"source.h"
+	<conio.h>
+	<iomanip>
+	<windows.h>
+
+1623745369 source:c:\users\k\onedrive\maze\main.cpp
+	<iostream>
+	<time.h>
+	<cstdlib>
+	<string>
+	"source.h"
+	<conio.h>
+	<iomanip>
+	<windows.h>
+	<fstream>
+
+1623745369 source:c:\users\t33l6\onedrive\maze\main.cpp
+	<iostream>
+	<time.h>
+	<cstdlib>
+	<string>
+	"source.h"
+	<conio.h>
+	<iomanip>
+	<windows.h>
+	<fstream>
+
+1623226733 source:c:\users\t33l6\desktop\maze\main.cpp
+	<iostream>
+	<time.h>
+	<cstdlib>
+	<string>
+	"source.h"
+	<conio.h>
+	<iomanip>
+	<windows.h>
+
+1623227109 c:\users\t33l6\desktop\maze\source.h
+	<iostream>
+	<time.h>
+	<cstdlib>
+	<string>
+	"source.h"
+	<conio.h>
+	<iomanip>
+	<windows.h>
+
+1623227150 source:c:\users\t33l6\desktop\maze\source.cpp
+	<iostream>
+	<time.h>
+	<cstdlib>
+	<string>
+	"source.h"
+	<conio.h>
+	<iomanip>
+	<windows.h>
+
+1623197462 source:c:\users\havystar\downloads\maze\main.cpp
+	<iostream>
+	<time.h>
+	<cstdlib>
+	<string>
+	"source.h"
+	<conio.h>
+	<iomanip>
+	<windows.h>
+
+1623197407 c:\users\havystar\downloads\maze\source.h
+	<iostream>
+	<time.h>
+	<cstdlib>
+	<string>
+	"source.h"
+	<conio.h>
+	<iomanip>
+	<windows.h>
+
+1623197268 source:c:\users\havystar\downloads\maze\source.cpp
+	<iostream>
+	<time.h>
+	<cstdlib>
+	<string>
+	"source.h"
+	<conio.h>
+	<iomanip>
+	<windows.h>
+
+1623197560 source:c:\users\t33l6\downloads\maze\source.cpp
+	<iostream>
+	<time.h>
+	<cstdlib>
+	<string>
+	"source.h"
+	<conio.h>
+	<iomanip>
+	<windows.h>
+
+1623197978 c:\users\t33l6\downloads\maze\source.h
+	<iostream>
+	<time.h>
+	<cstdlib>
+	<string>
+	"source.h"
+	<conio.h>
+	<iomanip>
+	<windows.h>
+
+1623197737 source:c:\users\t33l6\downloads\maze\main.cpp
+	<iostream>
+	<time.h>
+	<cstdlib>
+	<string>
+	"source.h"
+	<conio.h>
+	<iomanip>
+	<windows.h>
+
